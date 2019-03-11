@@ -151,6 +151,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6aadc4acbb77c4973b0d5d30f389aabb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  text: Hello World
+  points: 3
+  posX: 5
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
